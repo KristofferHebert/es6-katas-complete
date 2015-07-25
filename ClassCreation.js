@@ -52,5 +52,3 @@ describe('class creation', () => {
   });
 
 });
-
-
